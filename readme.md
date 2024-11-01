@@ -8,8 +8,6 @@ Machine learning competitions provide a great opportunity to test and improve yo
 
 This repository includes my solutions to various machine learning competitions. Each competition solution is organized into its own directory, which typically includes the following:
 
-- `README.md`: A description of the competition and problem statement.
-
 - `data/`: A directory containing the raw data for the competition.
 
 - `notebooks/`: A directory containing Jupyter notebooks or other scripts used to analyze and model the data.
