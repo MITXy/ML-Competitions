@@ -8,11 +8,11 @@ Machine learning competitions provide a great opportunity to test and improve yo
 
 This repository includes my solutions to various machine learning competitions. Each competition solution is organized into its own directory, which typically includes the following:
 
-- `data/`: A directory containing the raw data for the competition.
+- `data`: A directory containing the raw data for the competition.
 
-- `notebooks/`: A directory containing Jupyter notebooks or other scripts used to analyze and model the data.
+- `notebooks`: A directory containing Jupyter notebooks or other scripts used to analyze and model the data.
 
-- `models/`: A directory containing any trained machine learning models.
+- `models`: A directory containing any trained machine learning models.
 
 - `submission.csv`: A CSV file containing the final predictions for the competition.
 
