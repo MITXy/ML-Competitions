@@ -18,17 +18,6 @@ This repository includes my solutions to various machine learning competitions. 
 
 - `submission.csv`: A CSV file containing the final predictions for the competition.
 
-## Contents
-
-The repository includes solutions to various machine learning competitions, including:
-
-- [Titanic: Machine Learning from Disaster](https://www.kaggle.com/c/titanic): Predicting survival on the Titanic.
-
-- [House Prices: Advanced Regression Techniques](https://www.kaggle.com/c/house-prices-advanced-regression-techniques): Predicting the sale price of houses in Ames, Iowa.
-
-- [Digit Recognizer](https://www.kaggle.com/c/digit-recognizer): Classifying handwritten digits.
-
-- [Driver Telematics Analysis](https://www.kaggle.com/c/axa-driver-telematics-analysis): Predicting driver behavior based on telematics data.
 
 ## Requirements
 
